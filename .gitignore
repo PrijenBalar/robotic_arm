@@ -18,3 +18,7 @@ venv.bak/
 
 # YOLO models
 *.pt
+
+# Sub-repositories
+camera_vision/
+telemetry_data/
